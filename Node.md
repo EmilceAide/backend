@@ -116,7 +116,9 @@ EL servidor procesa la solicitu y emite una respuesta.
  - GET: parametros query (req.query)
  - POST: (req.body)
 
+Estandar REST APIs
 
+![](https://i.ibb.co/340t3y1/estandar.png)
  ### API
  Una API ​es una pieza de código que permite a diferentes aplicaciones comunicarse entre sí y compartir información y funcionalidades. Una API es un intermediario entre dos sistemas, que permite que una aplicación se comunique con otra y pida datos o acciones específicas. Las API permiten que sus productos y servicios se comuniquen con otros, sin necesidad de saber cómo están implementados.
 
