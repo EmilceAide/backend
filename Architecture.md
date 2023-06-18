@@ -24,5 +24,6 @@ Aunque todas estas arquitecturas varían un poco en sus detalles, son muy simila
 ![](https://i.ibb.co/rpyXZvJ/5.png)
 ![](https://i.ibb.co/HH1wyQY/6.png)
 ![](https://i.ibb.co/R3tM44j/7.png)
+Por "tipo y quien eres"
 ![](https://i.ibb.co/rdwk9pj/8-quien-eres-y-que-tipo.png)
 ![](https://i.ibb.co/wWPPrT2/9.png)
